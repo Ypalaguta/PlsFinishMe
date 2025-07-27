@@ -1,0 +1,64 @@
+{
+   "items":[
+      {
+         "id":1,
+		 "slot": 0,
+         "icon":"R_Gold",
+         "count":500,
+         "type":[
+            "gold"
+         ],
+         "mesh":""
+      },
+      {
+         "id":2,
+		 "slot": 1,
+         "icon":"W_OneHanded",
+         "count":0,
+         "type":[
+            "sword"
+         ],
+         "mesh":"SM_uitlbiaga_tier_2_edited"
+      },
+      {
+         "id":3,
+		 "slot": 2,
+         "icon":"BTN_weapon_sword_of_reflexion_i00",
+         "count":0,
+         "type":[
+            "sword"
+         ],
+         "mesh":"uh2tagpfa_LOD0_TIER2_000_edited"
+      },
+      {
+         "id":4,
+		 "slot": 3,
+         "icon":"BTN_weapon_zweihander_i00",
+         "count":0,
+         "type":[
+            "thSword"
+         ],
+         "mesh":"15th_century_long_sword_edited"
+      },
+      {
+         "id":5,
+		 "slot": 4,
+         "icon":"BTN_shield_aspis_i00",
+         "count":0,
+         "type":[
+            "shield"
+         ],
+         "mesh":"eagles_medieval_battle_shield"
+      },
+      {
+         "id":5,
+		 "slot": 5,
+         "icon":"BTN_shield_doom_shield_i00",
+         "count":0,
+         "type":[
+            "shield"
+         ],
+         "mesh":"bronze_votive_shield_delfos_museum_greece"
+      }
+   ]
+}

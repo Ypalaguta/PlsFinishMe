@@ -1,0 +1,34 @@
+{
+   "items":[
+      {
+         "skillId":1,
+         "cdElapsed":0,
+         "assignedSlot":"11"
+      },
+      {
+         "skillId":2,
+         "cdElapsed":0,
+         "assignedSlot":"12"
+      },
+      {
+         "skillId":3,
+         "cdElapsed":0,
+         "assignedSlot":"13"
+      },
+      {
+         "skillId":4,
+         "cdElapsed":0,
+         "assignedSlot":""
+      },
+      {
+         "skillId":5,
+         "cdElapsed":0,
+         "assignedSlot":""
+      },
+      {
+         "skillId":6,
+         "cdElapsed":0,
+         "assignedSlot":"14"
+      }
+   ]
+}

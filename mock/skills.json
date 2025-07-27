@@ -1,0 +1,345 @@
+[
+	{
+		"Name": "Leftpunch",
+		"dmg":
+		{
+			"physDmg": 1,
+			"fireDmg": 0,
+			"coldDmg": 0,
+			"lighningDmg": 0,
+			"chaosDmg": 0,
+			"divineDmg": 0
+		},
+		"skillDmgMultipliers":
+		{
+			"physDmg": 0.20000000000000001,
+			"fireDmg": 0,
+			"coldDmg": 0,
+			"lighningDmg": 0,
+			"chaosDmg": 0,
+			"divineDmg": 0
+		},
+		"heal":
+		{
+			"cp": 0,
+			"hp": 0,
+			"mp": 0
+		},
+		"reqToUse":
+		{
+			"cp": 0,
+			"hp": 0,
+			"mp": 0
+		},
+		"allowedTarget": "enemy",
+		"skillUseType": "activation",
+		"buffApply": [],
+		"debuffApply": [],
+		"cd": 0,
+		"hasGCd": true,
+		"aggro": 0,
+		"needTarget": true,
+		"useTime": 1.5,
+		"canWalkDuringActivation": true,
+		"canBeInterrupted": false,
+		"useRange": 200,
+		"icon": "/Game/0Main/Assets/Image/BTN_skill10151.BTN_skill10151",
+		"useAMName": "AM_Attack",
+		"useAMSectName": "Unarmed1",
+		"impactEffect": "",
+		"useSoundEffect": "",
+		"impactSoundEffect": "",
+		"id": 1,
+		"displayName": "",
+		"useWith": [],
+		"description": "",
+		"familyId": 1
+	},
+	{
+		"Name": "Rightpunch",
+		"dmg":
+		{
+			"physDmg": 3,
+			"fireDmg": 0,
+			"coldDmg": 0,
+			"lighningDmg": 0,
+			"chaosDmg": 0,
+			"divineDmg": 0
+		},
+		"skillDmgMultipliers":
+		{
+			"physDmg": 0.40000000000000002,
+			"fireDmg": 0,
+			"coldDmg": 0,
+			"lighningDmg": 0,
+			"chaosDmg": 0,
+			"divineDmg": 0
+		},
+		"heal":
+		{
+			"cp": 0,
+			"hp": 0,
+			"mp": 0
+		},
+		"reqToUse":
+		{
+			"cp": 0,
+			"hp": 0,
+			"mp": 0
+		},
+		"allowedTarget": "enemy",
+		"skillUseType": "activation",
+		"buffApply": [],
+		"debuffApply": [],
+		"cd": 0,
+		"hasGCd": true,
+		"aggro": 0,
+		"needTarget": true,
+		"useTime": 1.5,
+		"canWalkDuringActivation": true,
+		"canBeInterrupted": false,
+		"useRange": 200,
+		"icon": "/Game/0Main/Assets/Image/BTN_skill10152.BTN_skill10152",
+		"useAMName": "AM_Attack",
+		"useAMSectName": "Unarmed2",
+		"impactEffect": "",
+		"useSoundEffect": "",
+		"impactSoundEffect": "",
+		"id": 2,
+		"displayName": "",
+		"useWith": [],
+		"description": "",
+		"familyId": 2
+	},
+	{
+		"Name": "Upperpunch",
+		"dmg":
+		{
+			"physDmg": 6,
+			"fireDmg": 0,
+			"coldDmg": 0,
+			"lighningDmg": 0,
+			"chaosDmg": 0,
+			"divineDmg": 0
+		},
+		"skillDmgMultipliers":
+		{
+			"physDmg": 0.59999999999999998,
+			"fireDmg": 0,
+			"coldDmg": 0,
+			"lighningDmg": 0,
+			"chaosDmg": 0,
+			"divineDmg": 0
+		},
+		"heal":
+		{
+			"cp": 0,
+			"hp": 0,
+			"mp": 0
+		},
+		"reqToUse":
+		{
+			"cp": 0,
+			"hp": 0,
+			"mp": 0
+		},
+		"allowedTarget": "enemy",
+		"skillUseType": "activation",
+		"buffApply": [],
+		"debuffApply": [],
+		"cd": 0,
+		"hasGCd": true,
+		"aggro": 0,
+		"needTarget": true,
+		"useTime": 1.5,
+		"canWalkDuringActivation": true,
+		"canBeInterrupted": false,
+		"useRange": 200,
+		"icon": "/Game/0Main/Assets/Image/BTN_skill1015.BTN_skill1015",
+		"useAMName": "AM_Attack",
+		"useAMSectName": "Unarmed3",
+		"impactEffect": "",
+		"useSoundEffect": "",
+		"impactSoundEffect": "",
+		"id": 3,
+		"displayName": "",
+		"useWith": [],
+		"description": "",
+		"familyId": 3
+	},
+	{
+		"Name": "Autoattack",
+		"dmg":
+		{
+			"physDmg": 156,
+			"fireDmg": 0,
+			"coldDmg": 0,
+			"lighningDmg": 0,
+			"chaosDmg": 0,
+			"divineDmg": 0
+		},
+		"skillDmgMultipliers":
+		{
+			"physDmg": 1,
+			"fireDmg": 0,
+			"coldDmg": 0,
+			"lighningDmg": 0,
+			"chaosDmg": 0,
+			"divineDmg": 0
+		},
+		"heal":
+		{
+			"cp": 0,
+			"hp": 0,
+			"mp": 0
+		},
+		"reqToUse":
+		{
+			"cp": 0,
+			"hp": 0,
+			"mp": 0
+		},
+		"allowedTarget": "enemy",
+		"skillUseType": "autoAttack",
+		"buffApply": [],
+		"debuffApply": [],
+		"cd": 0,
+		"hasGCd": false,
+		"aggro": 0,
+		"needTarget": true,
+		"useTime": 1.5,
+		"canWalkDuringActivation": true,
+		"canBeInterrupted": false,
+		"useRange": 200,
+		"icon": "/Game/0Main/Assets/Image/BTN_action003.BTN_action003",
+		"useAMName": "AM_Attack",
+		"useAMSectName": "Unarmed0",
+		"impactEffect": "",
+		"useSoundEffect": "",
+		"impactSoundEffect": "",
+		"id": 4,
+		"displayName": "",
+		"useWith": [
+			"unarmed"
+		],
+		"description": "",
+		"familyId": 0
+	},
+	{
+		"Name": "Autoattacksword",
+		"dmg":
+		{
+			"physDmg": 1,
+			"fireDmg": 0,
+			"coldDmg": 0,
+			"lighningDmg": 0,
+			"chaosDmg": 0,
+			"divineDmg": 0
+		},
+		"skillDmgMultipliers":
+		{
+			"physDmg": 1,
+			"fireDmg": 0,
+			"coldDmg": 0,
+			"lighningDmg": 0,
+			"chaosDmg": 0,
+			"divineDmg": 0
+		},
+		"heal":
+		{
+			"cp": 0,
+			"hp": 0,
+			"mp": 0
+		},
+		"reqToUse":
+		{
+			"cp": 0,
+			"hp": 0,
+			"mp": 0
+		},
+		"allowedTarget": "enemy",
+		"skillUseType": "autoAttack",
+		"buffApply": [],
+		"debuffApply": [],
+		"cd": 0,
+		"hasGCd": false,
+		"aggro": 0,
+		"needTarget": true,
+		"useTime": 1.5,
+		"canWalkDuringActivation": true,
+		"canBeInterrupted": false,
+		"useRange": 200,
+		"icon": "/Game/0Main/Assets/Image/BTN_action003.BTN_action003",
+		"useAMName": "AM_Attack",
+		"useAMSectName": "Sword0",
+		"impactEffect": "",
+		"useSoundEffect": "",
+		"impactSoundEffect": "",
+		"id": 5,
+		"displayName": "",
+		"useWith": [
+			"sword"
+		],
+		"description": "",
+		"familyId": 0
+	},
+	{
+		"Name": "JumpAttack",
+		"dmg":
+		{
+			"physDmg": 1,
+			"fireDmg": 0,
+			"coldDmg": 0,
+			"lighningDmg": 0,
+			"chaosDmg": 0,
+			"divineDmg": 0
+		},
+		"skillDmgMultipliers":
+		{
+			"physDmg": 1,
+			"fireDmg": 0,
+			"coldDmg": 0,
+			"lighningDmg": 0,
+			"chaosDmg": 0,
+			"divineDmg": 0
+		},
+		"heal":
+		{
+			"cp": 0,
+			"hp": 0,
+			"mp": 0
+		},
+		"reqToUse":
+		{
+			"cp": 0,
+			"hp": 0,
+			"mp": 0
+		},
+		"allowedTarget": "enemy",
+		"skillUseType": "activation",
+		"buffApply": [],
+		"debuffApply": [],
+		"cd": 0,
+		"hasGCd": false,
+		"aggro": 0,
+		"needTarget": true,
+		"useTime": 1.5,
+		"canWalkDuringActivation": true,
+		"canBeInterrupted": false,
+		"useRange": 1000,
+		"icon": "/Game/0Main/Assets/Image/BTN_skill0479.BTN_skill0479",
+		"useAMName": "AM_Attack",
+		"useAMSectName": "JumpAttack",
+		"impactEffect": "",
+		"useSoundEffect": "",
+		"impactSoundEffect": "",
+		"id": 6,
+		"displayName": "",
+		"useWith": [
+			"unarmed",
+			"sword"
+		],
+		"description": "",
+		"familyId": 6
+	}
+]
