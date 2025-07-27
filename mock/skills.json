@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Leftpunch",
+		"name": "Leftpunch",
 		"dmg":
 		{
 			"physDmg": 1,
