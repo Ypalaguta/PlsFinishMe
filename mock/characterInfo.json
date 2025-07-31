@@ -1,7 +1,9 @@
 {
-         "id": 0,
-         "lvl": 1,
-         "bonusInventorySlots": 0,
-         "name":"[GM] Clem",
-         "title":"hidden"
+   "items":{
+      "id":0,
+      "lvl":1,
+      "bonusInventorySlots":0,
+      "name":"[GM] Clem",
+      "title":"hidden"
+   }
 }

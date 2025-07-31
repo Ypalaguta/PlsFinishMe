@@ -7,8 +7,7 @@
             "fireDmg":0,
             "coldDmg":0,
             "lighningDmg":0,
-            "chaosDmg":0,
-            "divineDmg":0
+            "chaosDmg":0
          },
          "skillDmgMultipliers":{
             "atkSpeedOfBase":2,
@@ -75,8 +74,7 @@
             "fireDmg":0,
             "coldDmg":0,
             "lighningDmg":0,
-            "chaosDmg":0,
-            "divineDmg":0
+            "chaosDmg":0
          },
          "skillDmgMultipliers":{
             "atkSpeedOfBase":1.5,
@@ -142,8 +140,7 @@
             "fireDmg":0,
             "coldDmg":0,
             "lighningDmg":0,
-            "chaosDmg":0,
-            "divineDmg":0
+            "chaosDmg":0
          },
          "skillDmgMultipliers":{
             "atkSpeedOfBase":1,
@@ -209,8 +206,7 @@
             "fireDmg":0,
             "coldDmg":0,
             "lighningDmg":0,
-            "chaosDmg":0,
-            "divineDmg":0
+            "chaosDmg":0
          },
          "skillDmgMultipliers":{
             "atkSpeedOfBase":2,
@@ -276,8 +272,7 @@
             "fireDmg":0,
             "coldDmg":0,
             "lighningDmg":0,
-            "chaosDmg":0,
-            "divineDmg":0
+            "chaosDmg":0
          },
          "skillDmgMultipliers":{
             "atkSpeedOfBase":2,
@@ -343,8 +338,7 @@
             "fireDmg":0,
             "coldDmg":0,
             "lighningDmg":0,
-            "chaosDmg":0,
-            "divineDmg":0
+            "chaosDmg":0
          },
          "skillDmgMultipliers":{
             "atkSpeedOfBase":2,
